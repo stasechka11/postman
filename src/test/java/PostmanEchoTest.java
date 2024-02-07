@@ -23,7 +23,7 @@ public class PostmanEchoTest {
                 .body("{\n" +
                         "\"name\": \"Ivan\",\n" +
                         "\"surname\": \"Ivanov\",\n" +
-                        "\"age\": 13\n" +
+                        "\"age\": 23\n" +
                         "}")
 // Выполняемые действия
                 .when()
